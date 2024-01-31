@@ -1,0 +1,26 @@
+.movie-container{
+    display: grid;
+    grid-template-columns: auto auto auto  ;
+    justify-content: space-around;
+    /* background-color: black; */
+    text-align: center;
+}
+ img{
+    width: 12vw ;
+    height: 25vh;
+}
+
+.each-movie-container{
+    
+    margin: 5% 0;
+    box-shadow: 5px 5px 5px 5px rgb(0,0,0);
+}
+.each-movie-button{
+    padding: 9%;
+}
+
+
+
+
+
+
